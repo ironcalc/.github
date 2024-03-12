@@ -16,10 +16,8 @@ The democratization of spreadsheets
 
 Major milestones:
 
-* MVP, version 0.5.0: We intend to have a working version by mid March 2024 (version 0.5, MVP)
-* Stable, version 1.0.0 will come later in December 2024
-
-MVP stands for _Minimum Viable Product_
+* MVP (_Minimum Viable Product_), version 0.5.0
+* Stable, version 1.0.0
 
 ## Version 0.5 or MVP (~June 2024)
 
@@ -62,16 +60,3 @@ Minor milestones in the ROADMAD for version 1.0.0 (engine and UI):
 * Full test coverage
 
 
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
