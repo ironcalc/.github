@@ -19,7 +19,7 @@ Major milestones:
 * MVP (_Minimum Viable Product_), version 0.5.0
 * Stable, version 1.0.0
 
-## Version 0.5 or MVP (October 2024)
+## Version 0.5 or MVP (End 2024)
 
 Version 0.5 includes the engine, javascript and nodejs bindings and a web application
 
