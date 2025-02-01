@@ -12,11 +12,11 @@ The democratization of spreadsheets
 # ROADMAP
 
 > [!WARNING]  
-> This is work-in-progress. IronCalc in developed in the open. Expect things to be broken and change quickly until version 0.5
+> This is work-in-progress. IronCalc in developed in the open. Expect things to be broken and change quickly until version 1.0
 
 Major milestones:
 
-* MVP (_Minimum Viable Product_), version 0.5.0
+* MVP (_Minimum Viable Product_), version 0.5.0 (done)
 * Stable, version 1.0.0
 
 ## Version 0.5 or MVP
