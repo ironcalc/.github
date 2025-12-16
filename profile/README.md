@@ -1,6 +1,6 @@
 # IronCalc
 
-The democratization of spreadsheets 
+Open source spreadsheet engine 
 
 [![Discord chat][discord-badge]][discord-url]
 
