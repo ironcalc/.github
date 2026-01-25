@@ -16,47 +16,22 @@ Open source spreadsheet engine
 
 Major milestones:
 
-* MVP (_Minimum Viable Product_), version 0.5.0 (done)
-* Stable, version 1.0.0
+* Version 1.0 (Stable release)
+* Version 2.0 (Full product)
 
-## Version 0.5 or MVP
-
-Version 0.5 includes the engine, javascript and nodejs bindings and a web application
-
-Features of the engine include:
-
-* Read and write xlsx files
-* API to set and read values from cells
-* Implemented 192 Excel functions
-* Time functions with timezones
-* Prepared for i18n but will only support English
-* Wide test coverage
-
-UI features of the web application (backed by the engine):
-
-* Enter values and formulas. Browse mode
-* Italics, bold, underline, horizontal alignment
-* Number formatting
-* Add/remove/rename sheets
-* Copy/Paste extend values
-* Keyboard navigation
-* Delete/Add rows and columns
-* Resize rows and columns
-* Correct scrolling and navigation
-
-## Version 1.0 or Stable
+## Version 1.0 (Stable release, mid 2026)
 
 Minor milestones in the ROADMAD for version 1.0.0 (engine and UI):
 
 * Implementation of arrays and array formulas
-* Formula documentation and context help
 * Merge cells
-* Pivot tables
 * Define name manager (mostly UI)
 * Update main evaluation algorithm with a support graph
 * Dynamic arrays (SORT, UNIQUE, ..)
-* Full i18n support with different locales and languages
-* Python bindings
 * Full test coverage
 
+## Version 2.0 (Full product, mid 2027)
 
+* Charts
+* Pivot tables
+* Formula documentation and context help
