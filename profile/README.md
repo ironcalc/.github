@@ -24,7 +24,7 @@ Major milestones:
 Minor milestones in the ROADMAD for version 1.0.0 (engine and UI):
 
 * Implementation of arrays and array formulas
-* Merge cells
+* Conditional Formatting
 * Define name manager (mostly UI)
 * Update main evaluation algorithm with a support graph
 * Dynamic arrays (SORT, UNIQUE, ..)
@@ -35,3 +35,4 @@ Minor milestones in the ROADMAD for version 1.0.0 (engine and UI):
 * Charts
 * Pivot tables
 * Formula documentation and context help
+* Merge cells
