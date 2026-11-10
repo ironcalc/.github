@@ -12,7 +12,7 @@ Open source spreadsheet engine
 # ROADMAP
 
 > [!WARNING]  
-> This is work-in-progress. IronCalc in developed in the open. Expect things to be broken and change quickly until version 1.0
+> IronCalc in developed in the open. Expect things to be broken and change quickly until version 1.0
 
 Major milestones:
 
@@ -29,10 +29,10 @@ Minor milestones in the ROADMAD for version 1.0.0 (engine and UI):
 * Update main evaluation algorithm with a support graph
 * Dynamic arrays (SORT, UNIQUE, ..)
 * Full test coverage
+* Charts
+* Merge cells
 
 ## Version 2.0 (Full product, mid 2027)
 
-* Charts
 * Pivot tables
 * Formula documentation and context help
-* Merge cells
